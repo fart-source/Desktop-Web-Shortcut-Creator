@@ -20,5 +20,5 @@ echo @echo off>>Temporary_Shortcut.txt
 echo color 02>>Temporary_Shortcut.txt
 echo start "microsoft edge" %WebAddress%>>Temporary_Shortcut.txt
 echo exit>>Temporary_Shortcut.txt
-ren Temporary_Shortcut.txt %ShortCutName%.bat
+ren "Temporary_Shortcut.txt" "%ShortCutName%.bat"
 exit
