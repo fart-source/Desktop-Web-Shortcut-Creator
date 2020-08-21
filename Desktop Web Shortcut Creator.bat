@@ -1,6 +1,6 @@
 @echo off
 color 02
-title "Desktop Web Shortcut Creator"
+title Desktop Web Shortcut Creator
 
 :check1
 
