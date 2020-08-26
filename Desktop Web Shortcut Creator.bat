@@ -1,5 +1,6 @@
 @echo off
 color 02
+mode con cols=20 lines=3
 title Desktop Web Shortcut Creator
 
 :check1
